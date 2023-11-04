@@ -1,0 +1,10 @@
+C:\Users\Gospodin\source\repos\dialogResult\dialogResult\bin\Debug\dialogResult.exe.config
+C:\Users\Gospodin\source\repos\dialogResult\dialogResult\bin\Debug\dialogResult.exe
+C:\Users\Gospodin\source\repos\dialogResult\dialogResult\bin\Debug\dialogResult.pdb
+C:\Users\Gospodin\source\repos\dialogResult\dialogResult\obj\Debug\dialogResult.csproj.AssemblyReference.cache
+C:\Users\Gospodin\source\repos\dialogResult\dialogResult\obj\Debug\dialogResult.Form1.resources
+C:\Users\Gospodin\source\repos\dialogResult\dialogResult\obj\Debug\dialogResult.Properties.Resources.resources
+C:\Users\Gospodin\source\repos\dialogResult\dialogResult\obj\Debug\dialogResult.csproj.GenerateResource.cache
+C:\Users\Gospodin\source\repos\dialogResult\dialogResult\obj\Debug\dialogResult.csproj.CoreCompileInputs.cache
+C:\Users\Gospodin\source\repos\dialogResult\dialogResult\obj\Debug\dialogResult.exe
+C:\Users\Gospodin\source\repos\dialogResult\dialogResult\obj\Debug\dialogResult.pdb
